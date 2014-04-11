@@ -1,7 +1,7 @@
 ﻿Comic Sans Replacer
 ===================
 
-This Chrome, Firefox, Opera and IE user style sheet replaces the ugly Comic Sans MS font on all websites with much better [Comic Neue](http://comicneue.com) font by Craig Rozynski.
+This Chrome, Firefox, Opera and IE user style sheet replaces the ugly Comic Sans MS font on all websites with much better [Comic Neue](http://comicneue.com) font by Craig Rozynski. This web font is hosted on the super-fast CDN [jsDelivr](http://www.jsdelivr.com).
 
 Installation
 ------------
