@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "name": "Comic Sans Replacer",
+  "description": "Replace Comic Sans MS font on all websites with Comic Neue by Craig Rozynski",
+  "author": "niu tech",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "css": ["userContent.css"]
+    }
+  ],
+  "manifest_version": 2
+}
