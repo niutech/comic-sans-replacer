@@ -8,9 +8,11 @@ Installation
 
 For Chrome, install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hogcjpgnoecbkmbamlakaacafkloopbn) and voilà!
 
-For other browsers, first download just the _userContent.css_ file.
+For Stylish, install the user style from [userstyles.org](http://userstyles.org/styles/100279/comic-sans-replacer).
 
-In Firefox, go to _about:support_ and click _Open Directory_ of your profile. Create a new folder _chrome_ and paste the _userContent.css_ file into it.
+For other browsers, first download just the [userContent.css](https://raw.githubusercontent.com/niutech/comic-sans-replacer/gh-pages/userContent.css) file.
+
+In Firefox, go to [about:support](about:support) and click _Open Directory_ of your profile. Create a new folder _chrome_ and paste the _userContent.css_ file into it.
 
 In Opera, click _View > Style > Manage Modes_ and choose the _userContent.css_ file.
 
